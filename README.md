@@ -4,13 +4,13 @@ This project was generated with [webmagic](https://github.com/code4craft/webmagi
 
 ## Environment
 
-- [Java](https://www.java.com/en)
+- [Java](https://www.java.com)
 - [Git](https://git-scm.com)
 
 ## Minimum Requirements
 
-- JDK 1.8+ 
-- Git 2.1+
+- JDK 1.8
+- Git 2.0
 
 ## Installation
 
